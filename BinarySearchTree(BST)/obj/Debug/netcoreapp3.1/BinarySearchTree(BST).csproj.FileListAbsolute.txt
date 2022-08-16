@@ -1,0 +1,13 @@
+G:\Bridgelab\BinarySearchTree(BST)\BinarySearchTree(BST)\bin\Debug\netcoreapp3.1\BinarySearchTree(BST).exe
+G:\Bridgelab\BinarySearchTree(BST)\BinarySearchTree(BST)\bin\Debug\netcoreapp3.1\BinarySearchTree(BST).deps.json
+G:\Bridgelab\BinarySearchTree(BST)\BinarySearchTree(BST)\bin\Debug\netcoreapp3.1\BinarySearchTree(BST).runtimeconfig.json
+G:\Bridgelab\BinarySearchTree(BST)\BinarySearchTree(BST)\bin\Debug\netcoreapp3.1\BinarySearchTree(BST).runtimeconfig.dev.json
+G:\Bridgelab\BinarySearchTree(BST)\BinarySearchTree(BST)\bin\Debug\netcoreapp3.1\BinarySearchTree(BST).dll
+G:\Bridgelab\BinarySearchTree(BST)\BinarySearchTree(BST)\bin\Debug\netcoreapp3.1\BinarySearchTree(BST).pdb
+G:\Bridgelab\BinarySearchTree(BST)\BinarySearchTree(BST)\obj\Debug\netcoreapp3.1\BinarySearchTree(BST).csproj.AssemblyReference.cache
+G:\Bridgelab\BinarySearchTree(BST)\BinarySearchTree(BST)\obj\Debug\netcoreapp3.1\BinarySearchTree(BST).AssemblyInfoInputs.cache
+G:\Bridgelab\BinarySearchTree(BST)\BinarySearchTree(BST)\obj\Debug\netcoreapp3.1\BinarySearchTree(BST).AssemblyInfo.cs
+G:\Bridgelab\BinarySearchTree(BST)\BinarySearchTree(BST)\obj\Debug\netcoreapp3.1\BinarySearchTree(BST).csproj.CoreCompileInputs.cache
+G:\Bridgelab\BinarySearchTree(BST)\BinarySearchTree(BST)\obj\Debug\netcoreapp3.1\BinarySearchTree(BST).dll
+G:\Bridgelab\BinarySearchTree(BST)\BinarySearchTree(BST)\obj\Debug\netcoreapp3.1\BinarySearchTree(BST).pdb
+G:\Bridgelab\BinarySearchTree(BST)\BinarySearchTree(BST)\obj\Debug\netcoreapp3.1\BinarySearchTree(BST).genruntimeconfig.cache
